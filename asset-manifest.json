@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/BlisfulBites/static/css/main.453b0e56.css",
+    "main.js": "/BlisfulBites/static/js/main.42c81829.js",
+    "static/media/sundae2.jpg": "/BlisfulBites/static/media/sundae2.c0aa49939731366a0c35.jpg",
+    "static/media/sundae3.jpg": "/BlisfulBites/static/media/sundae3.776bc66966fbcd32b665.jpg",
+    "static/media/location cover.png": "/BlisfulBites/static/media/location cover.04d864b271ea91fce66a.png",
+    "static/media/mango-sorbet.jpeg": "/BlisfulBites/static/media/mango-sorbet.d7bb5128bc078447dde7.jpeg",
+    "static/media/hazelnut.jpg": "/BlisfulBites/static/media/hazelnut.d0154d2de31877817370.jpg",
+    "static/media/sundae6.jpg": "/BlisfulBites/static/media/sundae6.6c73497713fd952302e4.jpg",
+    "static/media/sundae4.jpg": "/BlisfulBites/static/media/sundae4.23e92ee2ac37f0df244e.jpg",
+    "static/media/sundae5.jpg": "/BlisfulBites/static/media/sundae5.bb705b930e9858a9f2c6.jpg",
+    "static/media/cookiescreme.jpg": "/BlisfulBites/static/media/cookiescreme.8b855d3257fab53c11dc.jpg",
+    "static/media/chocolate-img.jpg": "/BlisfulBites/static/media/chocolate-img.e3cde1b3206b5df0bc99.jpg",
+    "static/media/strawberry-img.jpg": "/BlisfulBites/static/media/strawberry-img.afec7eb3ca76a76379b1.jpg",
+    "static/media/coverTitle.png": "/BlisfulBites/static/media/coverTitle.3da7dcf8940c201d1dac.png",
+    "static/media/mango.jpg": "/BlisfulBites/static/media/mango.13f0ec8bbd12aa9d1b0f.jpg",
+    "static/media/caramelswirl.jpg": "/BlisfulBites/static/media/caramelswirl.d430e64956b94536b531.jpg",
+    "static/media/sundae1.jpg": "/BlisfulBites/static/media/sundae1.862376f8ab876a220267.jpg",
+    "static/media/logo.png": "/BlisfulBites/static/media/logo.05bf119fa37ddd84cb82.png",
+    "static/media/vanila-img.jpg": "/BlisfulBites/static/media/vanila-img.5971450f3368094316ce.jpg",
+    "static/media/blueberry.jpg": "/BlisfulBites/static/media/blueberry.2be19562d840ced2f021.jpg",
+    "static/media/pistachio.jpg": "/BlisfulBites/static/media/pistachio.6ec30c4696c3302426d5.jpg",
+    "static/media/caramel.jpg": "/BlisfulBites/static/media/caramel.3ba4825757e9dc2c1eb0.jpg",
+    "index.html": "/BlisfulBites/index.html",
+    "main.453b0e56.css.map": "/BlisfulBites/static/css/main.453b0e56.css.map",
+    "main.42c81829.js.map": "/BlisfulBites/static/js/main.42c81829.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453b0e56.css",
+    "static/js/main.42c81829.js"
+  ]
+}
