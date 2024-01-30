@@ -1,0 +1,50 @@
+
+.location-container {
+    text-align: center;
+  }
+  
+  .banner-image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    animation: fadeIn 5s; /*fade in time effect */
+  }
+
+
+  /*add fade in effect */
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  .location-boxes {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .location-box {
+    width: 30%; /* Adjust the width as needed */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 5s;
+  }
+  
+  .location-box h2 {
+    color: #333;
+    font-size: 1.5rem;
+  }
+  
+  .location-box p {
+    color: #666;
+  }
+
+  /*fade in each section */
+  .fade-section {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s, transform 0.5s;
+  }
+  
+  

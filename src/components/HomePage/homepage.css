@@ -1,0 +1,135 @@
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #ffdedb;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ff0062;
+}
+
+
+/*add fade in effect */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+
+.iceCreamList{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+.ice-cream-section,
+.sundaes-section {
+    padding: 20px;
+    
+}
+
+/**************** flavors of ice cream************ */
+
+/* Style for the Ice Cream and Sundaes sections */
+.ice-cream-section,
+.sundaes-section {
+    margin-top: 20px;
+}
+
+/* Style for each flavor or sundae */
+.sundae {
+    padding: 10px; /* Padding inside the box */
+    text-align: center; /* Center-align the content */
+    margin-bottom: 20px; /* Spacing between each flavor or sundae */
+}
+
+/* Style for the images */
+.flavor img,
+.sundae img {
+    max-width: 100%; /* Make sure the image doesn't exceed the box width */
+    height: auto; /* Maintain aspect ratio */
+    border: 1px solid #888; /* Border for the image */
+    border-radius: 8px; /* Optional: Add border-radius for rounded corners */
+    margin-bottom: 10px; /* Spacing between image and description */
+}
+
+/* Style for the descriptions */
+.flavor p,
+.sundae p {
+    font-size: 16px;
+    color: #333;
+    margin: 0; /* Remove default margin for paragraphs */
+}
+
+/******  title of iceream and sundae pic image*******/
+
+  
+  .hello-world-section {
+    background-image: url(../Images/coverTitle.png); 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    animation: fadeIn 4s; /*fade in time effect */
+  }
+  
+  .boxTitle {
+    text-align: right;
+    padding: 20px;
+    /*background-color: rgb(255 222 219);*/
+    border-radius: 10px;
+    height: 446px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: space-between;
+    align-items: flex-end;
+    animation: fadeIn 5s; /*fade in time effect */
+  }
+
+  
+
+
+
+
+  /*Button*/
+  .buttonLayout{
+    background-color: #ffdedb;
+    color: #ff0062;
+    border-radius: 25%;
+    padding: 24px;
+    width: 145px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .boxTitle h1, .boxTitle p{
+    text-align: right;
+    color: #ff0062;
+    font-size: 42px;
+    font-family: 'Shadows Into Light', cursive;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  

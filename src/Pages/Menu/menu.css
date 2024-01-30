@@ -1,0 +1,164 @@
+
+h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+    margin-top: 10px;
+  }
+
+  .titleHead{
+    font-size: -webkit-xxx-large;
+    color: #ff0062;
+    text-align: center;
+    margin: 45px;
+    background: #ffe8f1;
+    width: 500px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.flavor{
+  width: 30%; /* Adjust the width of each flavor box */
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+  transition: opacity 1s ease-in-out;
+}
+
+.fade-in {
+  opacity: 1; /* Set opacity to 1 for fade-in effect */
+}
+
+
+/*img of icecream layout */
+.flavor img{
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #888;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.flavor h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.flavor p {
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+}
+
+
+/*ingrdeient list*/
+.ingredientsList{
+  color: black;
+    width: 257px;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: center;
+    text-align: center;
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+
+/*sundae chart */
+/* sundae chart */
+
+.sundaes-section {
+  text-align: center;
+}
+
+.sundae {
+  padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.sundae img {
+  max-width: 510px;
+  height: auto;
+  border: 1px solid #888;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.sundae p {
+  margin: 31px;
+  padding: 12px;
+  width: 70%;
+  text-align: center;
+}
+
+.sundaeList {
+  color: #ff9393;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.ingredientsList {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  font-size: 13px;
+}
+
+.ingredientsList li {
+  margin: 5px 0;
+}
+
+/*prices chart*/
+.priceList {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Optional: Align items in the center */
+}
+
+.priceList span {
+  margin-bottom: 10px; /* Add some spacing between spans */
+  font-size: 18px;
+}
+
+/* Style for the first span */
+.priceList span:first-child {
+  margin-top: 24px;
+  color: #ff5733; /* Change color for the first span */
+}
+
+/* Style for the second span */
+.priceList span:last-child {
+  color: #009688; /* Change color for the second span */
+}
+
+
+
+
+/*add fade in effect */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
