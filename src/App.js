@@ -1,3 +1,4 @@
+import React from 'react';
 import Homepage from './components/HomePage/homepage';
 import './App.css';
 

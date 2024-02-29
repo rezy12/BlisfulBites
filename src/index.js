@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import Menu from "../src/Pages/Menu/menu";
-import Location from "../src/Pages/Locations/location";
+import Menu from "./Pages/Menu/menu";
+import Location from "./Pages/Locations/location";
 import {
   createBrowserRouter,
   RouterProvider,
@@ -12,15 +12,15 @@ import {
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App/>,
+    element: <App />,
   },
   {
-    path: "location",
-    element: <Location/>,
+    path: "/location",
+    element: <Location />,
   },
   {
-    path: "menu",
-    element: <Menu/>,
+    path: "/menu",
+    element: <Menu />,
   },
 ]);
 
