@@ -1,6 +1,6 @@
 import React from 'react'
 import "../Locations/location.css";
-import LocationBanner from "../../components/Images/location cover.png";
+import LocationBanner from "../../../public/Images/location cover.png";
 import NavBar from "../../components/NavBar/navbar.js";
 import Footer from "../../components/Footer/footer.js";
 
