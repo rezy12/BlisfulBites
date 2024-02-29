@@ -80,7 +80,7 @@ header {
 
   
   .hello-world-section {
-    background-image: url(../Images/coverTitle.png); 
+    background-image: url(../../Images/coverTitle.png); 
     background-size: cover;
     background-position: center;
     display: flex;
