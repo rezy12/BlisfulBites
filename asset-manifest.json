@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blisfullbites/static/css/main.0dfb51eb.css",
-    "main.js": "/Blisfullbites/static/js/main.8da97a80.js",
+    "main.js": "/Blisfullbites/static/js/main.73ff1ef0.js",
     "static/media/sundae2.jpg": "/Blisfullbites/static/media/sundae2.c0aa49939731366a0c35.jpg",
     "static/media/sundae3.jpg": "/Blisfullbites/static/media/sundae3.776bc66966fbcd32b665.jpg",
     "static/media/location cover.png": "/Blisfullbites/static/media/location cover.04d864b271ea91fce66a.png",
@@ -24,10 +24,10 @@
     "static/media/caramel.jpg": "/Blisfullbites/static/media/caramel.3ba4825757e9dc2c1eb0.jpg",
     "index.html": "/Blisfullbites/index.html",
     "main.0dfb51eb.css.map": "/Blisfullbites/static/css/main.0dfb51eb.css.map",
-    "main.8da97a80.js.map": "/Blisfullbites/static/js/main.8da97a80.js.map"
+    "main.73ff1ef0.js.map": "/Blisfullbites/static/js/main.73ff1ef0.js.map"
   },
   "entrypoints": [
     "static/css/main.0dfb51eb.css",
-    "static/js/main.8da97a80.js"
+    "static/js/main.73ff1ef0.js"
   ]
 }
