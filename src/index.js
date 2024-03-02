@@ -24,7 +24,7 @@ const router = createBrowserRouter(
       element: <Menu />,
     },
   ],
-  {basename: "/Blissfullbites"}
+  {basename: "/Blisfullbites"}
 );
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
